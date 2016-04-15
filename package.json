@@ -1,0 +1,24 @@
+{
+  "name": "now-immediate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumminorihSF/now-immediate.git"
+  },
+  "keywords": [
+    "date",
+    "immediate",
+    "now"
+  ],
+  "author": "Konstantine Petryaev <numminorihsf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NumminorihSF/now-immediate/issues"
+  },
+  "homepage": "https://github.com/NumminorihSF/now-immediate#readme"
+}
